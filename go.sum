@@ -1,0 +1,8 @@
+github.com/eatmoreapple/env v0.0.0-20221209134614-67b2992189ba h1:p225A+b+yKzFI5/Mgl0tyzTTyUWc82HJn96sXszB0XQ=
+github.com/eatmoreapple/env v0.0.0-20221209134614-67b2992189ba/go.mod h1:6FwoAYtdFyNxe5UfWjmRui6WWt3CaRglffRFHCaGTIQ=
+github.com/eatmoreapple/openai v0.0.0-20230406093144-c3cc31fc22a7 h1:Hh+FXRzD4Z5cLp9xr0YHzEFw8FMxw1unKaPZeCTtWpU=
+github.com/eatmoreapple/openai v0.0.0-20230406093144-c3cc31fc22a7/go.mod h1:LtFslxfd5YYFxLVHTApj8PkZSUp7rs89XECJwXoWkFw=
+github.com/eatmoreapple/openwechat v1.4.1 h1:hIVEr2Xaj+r1SXzdTigqhIXiuu6TZd+NPWdEVVt/qeM=
+github.com/eatmoreapple/openwechat v1.4.1/go.mod h1:ZxMcq7IpVWVU9JG7ERjExnm5M8/AQ6yZTtX30K3rwRQ=
+github.com/patrickmn/go-cache v2.1.0+incompatible h1:HRMgzkcYKYpi3C8ajMPV8OFXaaRUnok+kx1WdO15EQc=
+github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTKqZju1ZixQ/KpMGzzAfe6+WQ=
